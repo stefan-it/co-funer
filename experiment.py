@@ -36,9 +36,9 @@ class ExperimentConfiguration:
 def run_experiment(experiment_configuration: ExperimentConfiguration) -> str:
     set_seed(experiment_configuration.seed)
 
-
     corpus = NER_CO_FUNER()
 
+    label_type = "ner"
     label_dictionary = corpus.make_label_dictionary(label_type=label_type)
     logger.info("Label Dictionary: {}".format(label_dictionary.get_items()))
 
