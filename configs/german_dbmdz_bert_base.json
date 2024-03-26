@@ -1,0 +1,32 @@
+{
+    "batch_sizes": [
+        16,
+        8
+    ],
+    "learning_rates": [
+        3e-05,
+        5e-05
+    ],
+    "epochs": [
+        10
+    ],
+    "context_sizes": [
+        0
+    ],
+    "seeds": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "layers": "-1",
+    "subword_poolings": [
+        "first"
+    ],
+    "use_crf": false,
+    "use_tensorboard": true,
+    "hf_model": "dbmdz/bert-base-german-cased",
+    "model_short_name": "german_dbmdz_bert_base",
+    "cuda": "0"
+}
