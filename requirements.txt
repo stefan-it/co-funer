@@ -1,0 +1,1 @@
+git+https://github.com/flairNLP/flair.git@cdb563b665ad8b16dc3a49964cf2ef7db910ab11
