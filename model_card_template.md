@@ -44,7 +44,7 @@ A hyper-parameter search over the following parameters with 5 different seeds pe
 * Learning Rates: {{ learning_rates }}
 
 More details can be found in this [repository](https://github.com/stefan-it/co-funer). All models are fine-tuned on a
-[Hetzner GX44](https://www.hetzner.com/dedicated-rootserver/matrix-gpu/) with an NVIDIA RTX 4000.
+[Hetzner GEX44](https://www.hetzner.com/dedicated-rootserver/matrix-gpu/) with an NVIDIA RTX 4000.
 
 ## Results
 
