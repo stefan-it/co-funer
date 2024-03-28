@@ -44,7 +44,7 @@ Additionally, the script upload the Flair model to the Model Hub. The following 
 | Environment Variable | Description                                                                                              |
 | -------------------- | -------------------------------------------------------------------------------------------------------- |
 | `CONFIG`             | Should point to a configuration file in the `configs` folder, e.g. `configs/german_dbmdz_bert_base.json` |
-| `HF_TOKEN            | HF Access Token, which can be found [here](https://huggingface.co/settings/tokens)                       |
+| `HF_TOKEN`           | HF Access Token, which can be found [here](https://huggingface.co/settings/tokens)                       |
 | `HUB_ORG_NAME`       | Should point to user-name or organization where the model should be uploaded to                          |
 | `HF_UPLOAD`          | If this variable is set, fine-tuned Flair model won't be uploaded to the Model Hub                       |
 
