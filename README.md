@@ -15,6 +15,9 @@ Overall, the following named entities are annotated:
 * `Ort` (engl. location)
 * `Software`
 
+The Co-Fun NER dataset from the [Model Hub](https://huggingface.co/datasets/stefan-it/co-funer) is used for fine-tuning
+Flair models.
+
 ## Fine-Tuning
 
 The main fine-tuning is done in [`experiment.py`](experiment.py).
