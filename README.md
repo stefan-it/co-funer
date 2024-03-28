@@ -128,7 +128,9 @@ that allows to perform NER:
 
 ![Inference Widget](images/inference-widget.png)
 
-All fine-tuned models can be found [here](https://huggingface.co/models?search=flair-co-fune).
+All fine-tuned models can be found [here](https://huggingface.co/models?search=flair-co-fune). The best models can be
+found in
+[this collection](https://huggingface.co/collections/stefan-it/fine-tuned-co-funer-models-66058539530368090082214f).
 
 # Changelog
 
