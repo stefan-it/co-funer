@@ -1,4 +1,4 @@
-# Co-Funer
+# CO-Funer
 
 This repository shows how to fine-tune Flair models on the [CO-Fun](https://arxiv.org/abs/2403.15322) NER dataset.
 
@@ -15,7 +15,7 @@ Overall, the following named entities are annotated:
 * `Ort` (engl. location)
 * `Software`
 
-The Co-Fun NER dataset from the [Model Hub](https://huggingface.co/datasets/stefan-it/co-funer) is used for fine-tuning
+The CO-Fun NER dataset from the [Model Hub](https://huggingface.co/datasets/stefan-it/co-funer) is used for fine-tuning
 Flair models.
 
 ## Fine-Tuning
@@ -131,7 +131,7 @@ that allows to perform NER:
 
 ![Inference Widget](images/inference-widget.png)
 
-All fine-tuned models can be found [here](https://huggingface.co/models?search=flair-co-fune). The best models can be
+All fine-tuned models can be found [here](https://huggingface.co/models?search=flair-co-funer). The best models can be
 found in
 [this collection](https://huggingface.co/collections/stefan-it/fine-tuned-co-funer-models-66058539530368090082214f).
 
