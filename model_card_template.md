@@ -9,6 +9,8 @@ tags:
 - hetzner-gex44
 - hetzner-gpu
 base_model: {{ base_model }}
+datasets:
+- stefan-it/co-funer
 widget:
 - text: {{ widget_text }}
 ---
